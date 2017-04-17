@@ -7,4 +7,4 @@ Contributed python scripts can be used in the following order:
 2) PrepareData_NYC.ipynb - Reads in combined data file for NYC from 1) and does a basic fix.
 3) Clean Drawings.ipynb - Takes the fixed file from 2) and makes some changes (inc. removes 'Other')
 4) Describe dataset.ipynb - Takes the analysis dataset from 3) and describes drawing and neighborhood frequencies.
-5) 
+5) Deviation from Median Centre.ipynb - Takes the analysis dataset from 3) and produces some simple measures of spread (centroid, area and perimeter)
