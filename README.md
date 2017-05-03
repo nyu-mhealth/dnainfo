@@ -8,4 +8,4 @@ Contributed python scripts can be used in the following order:
 3) Clean Drawings.ipynb - Takes the fixed file from 2) and makes some changes (inc. removes 'Other')
 4) Describe dataset.ipynb - Takes the analysis dataset from 3) and describes drawing and neighborhood frequencies.
 5) Deviation from Median Centre.ipynb - Takes the analysis dataset from 3) and produces some simple measures of spread (centroid, area and perimeter)
-6) silhouette analysis - centroids, hausdorff, frechet, jacquard measure creation.ipynb - Takes the analysis dataset from 3) and produces 4 silhouette measures for each drawing based on: centroid, Hausdorff, Fréchet, and Jacquard distance.
+6) Silhouette analysis - centroids, hausdorff, frechet, jacquard measure creation.ipynb - Takes the analysis dataset from 3) and produces 4 silhouette measures for each drawing based on: centroid, Hausdorff, Fréchet, and Jacquard distance.
